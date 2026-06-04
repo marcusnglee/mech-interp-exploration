@@ -1,0 +1,9 @@
+circuitsvis
+einops
+eindex-callum
+jaxtyping
+numpy
+plotly
+torch
+tqdm
+transformer-lens
